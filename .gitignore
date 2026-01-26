@@ -1,3 +1,9 @@
+# Logs
+logs/
+*.log
+**/logs/
+**/*.log
+
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar

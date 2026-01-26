@@ -11,4 +11,5 @@ repositories {
 
 dependencies {
     implementation 'com.fasterxml.jackson.core:jackson-annotations:2.17.2' // Check Maven Central for the latest stable version
+    api 'org.springframework:spring-web:6.1.10'
 }
