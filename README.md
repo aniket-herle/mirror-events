@@ -11,8 +11,6 @@ Shared event definitions and data models for the Multi Mirror Project. This libr
 - [Features](#features)
 - [Events](#events)
 - [Event Schemas](#event-schemas)
-- [Serialization](#serialization)
-- [Versioning](#versioning)
 
 ## Overview
 
